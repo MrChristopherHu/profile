@@ -1,0 +1,8 @@
+---
+title: "Albemarle & Charlottesville Region: School Racial Demographics [2023]"
+output: html_document
+---
+
+\*Created for the [Equity Center](https://virginiaequitycenter.org/) at the University of Virginia
+
+<embed type="text/html" src="districtbyrace_gg_stackedbar.html" width="950" height=800>

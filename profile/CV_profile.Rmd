@@ -1,0 +1,7 @@
+---
+title: "Christopher Hu — CV"
+output: html_document
+---
+
+\*Last updated June 2023
+<embed src="Hu_CV.pdf" type="application/pdf" width="100%" height="800px" />
