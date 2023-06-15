@@ -1,0 +1,14 @@
+name: "Christopher Hu"
+title: "Christopher Hu"
+right:
+  - text: "CV"
+    href: ./CV_profile.html
+  - text: "Projects"
+    menu:
+       - text: "Albemarle & Charlottesville Region: School Racial Demographics [2023]"
+         href: ./racialdemo_profile.html
+       - text: "Albemarle & Charlottesville Regional School Map [2023]"
+         href: ./schoolmap_profile.html
+left:
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/MrChristopherHu
