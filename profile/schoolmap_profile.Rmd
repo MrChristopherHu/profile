@@ -1,8 +1,0 @@
----
-title: "Albemarle & Charlottesville Regional School Map [2023]"
-output: html_document
----
-
-\*Created for the [Equity Center](https://virginiaequitycenter.org/) at the University of Virginia
-
-<embed type="text/html" src="regionalschoolmap.html" width="950" height=800>

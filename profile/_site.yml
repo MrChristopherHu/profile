@@ -1,6 +1,0 @@
-name: "Christopher Hu"
-output_dir: 'docs'
-output:
-  html_document:
-    theme: cosmo
-    highlight: tango
