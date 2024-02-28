@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an ethnographer and discourse analyst who studies race and ethnicity in educational contexts.
+I am an ethnographer and discourse analyst who studies race and ethnicity in educational contexts. Questions? Want to connect? Email me at [ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)!
 
-- **Research Interests:**
+- **Research Interests:** 
 - **Methods:** meta-learning, incremental learning, transfer learning
 
 ## Current Projects
