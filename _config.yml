@@ -21,7 +21,7 @@ linkedin: https://www.linkedin.com/in/christopher-hu-b19868221/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar_hu.png
-favicon: 
+favicon: ./assets/img/favicon.png
 favicon_dark: 
 
 # Footnote
