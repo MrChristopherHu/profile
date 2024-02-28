@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am an ethnographer and discourse analyst who studies race and ethnicity in educational contexts. Currently, I am a PhD candidate in the soial foundations of education at the University of Virginia's School of Education and Human Development with an anticipated defense in Spring 2025. Questions? Want to connect? Email me at [ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)!
+Hi there! I am an ethnographer and discourse analyst who studies race and ethnicity in educational contexts. Currently, I am a PhD candidate in the soial foundations of education at the University of Virginia's School of Education and Human Development with an anticipated defense in <i>Spring 2025</i>. Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
 
 - **Research Interests:** Racialization, immigration, ethnicity, class, identity, achievement  
 - **Methods:** ethnography, critical discourse analysis, interviewing, participant observation, geospatial analysis, basic quantitative analysis (preference for R)
