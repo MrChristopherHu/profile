@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an ethnographer and discourse analyst who examines...
+I am an ethnographer and discourse analyst who studies race and ethnicity in educational contexts.
 
 ## Research Interests
 
