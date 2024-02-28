@@ -2,17 +2,17 @@ main:
 
   - title: "Asian American Racialization in America's Top-Ranked Public High Schools" 
     authors: <b>Christopher Hu</b>
-    conference_short: REE
+    conference_short: 
     conference: Race Ethnicity and Education, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: ./assets/img/teaser_example_2.png
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/13613324.2023.2279298
+    image: ./assets/img/teaser_REE.png
     notes: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "The Purposes and Pedagogies of Social Foundations in Teacher Education"
+    authors: <b>Christopher Hu</b>
+    conference_short: 
+    conference: Educational Studies, 2023. 
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/00131946.2023.2271587
+    page: 
     notes: 
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_ES.png
