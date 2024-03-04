@@ -14,8 +14,8 @@ B.S., Chemistry (minor in Education), Washington and Lee University, 2015
 
 ## Current Projects
 
-- **Ethnoburban Chinese:** I am in the process of completing ethnographic fieldwork for my dissertation, which examines the collective cultural practices of a highly educated and class privileged Chinese community in the white affluent suburbs of NJ. 
+- **An Ethnography of the Ethnoburban Chinese:** I am in the process of completing ethnographic fieldwork for my dissertation, which examines the collective cultural practices of a highly educated and class privileged Chinese community in the white affluent suburbs of NJ. 
 - **Highly Selective Magnet High Schools:** I conducted an interview-based study with parents with children who attend highly selective, top-ranked public magnet high schools on the East Coast. Several empirical articles are published or forthcoming from this pilot study.
-- **Community-Engaged Scholarship:** As a graduate research assistant affiliated with the University of Virginia's [Equity Center](https://www.virginiaequitycenter.org/), I have led an ethnographic study of an out-of-school equity intervention program designed for minoritized local youth of color and have also co-authored a study that examines language ideologies in a multilingual tutoring context.
+- **Community-Engaged Scholarship:** As a graduate research assistant affiliated with the University of Virginia's [Equity Center](https://www.virginiaequitycenter.org/), I have led an ethnographic study of an out-of-school equity intervention program designed for minoritized local youth of color and have also co-authored a study that examines language ideologies in a multilingual tutoring context. More forthcoming! 
 
 {% include_relative _includes/publications.md %}
