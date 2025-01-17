@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am an educational ethnographer who studies race and ethnicity. Currently, I am a PhD candidate in the social foundations of education at the University of Virginia's [School of Education and Human Development](https://education.virginia.edu/about/directory/christopher-hu), and I'm on the <b>job market</b> looking for academic positions starting in <b>Fall 2025</b>. Previously, I was a high school chemistry teacher in rural Virginia. Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
+Hi there! I am an educational ethnographer who studies race and ethnicity. Currently, I am a PhD candidate in the social foundations of education at the University of Virginia's [School of Education and Human Development](https://education.virginia.edu/about/directory/christopher-hu). Previously, I was a high school chemistry teacher in rural Virginia. Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
 
 - **Research Interests:** the social-cultural-historical foundations of schooling, sociology & anthropology of education, racialization, immigration, ethnicity, class
 - **Methodologies:** ethnography, discourse analysis, interviewing, participant observation, qualitative analysis, geospatial analysis, basic quantitative analysis (R)
