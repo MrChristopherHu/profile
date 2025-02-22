@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am an ethnographer who studies race, immigration, and education. I completed my PhD in social foundations of education at the University of Virginia. Previously, I was a high school chemistry teacher in rural Virginia. Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
+Hi there! I am an ethnographer who studies race, immigration, and education. I completed my PhD in the social foundations of education at the University of Virginia. Previously, I was a high school chemistry teacher in rural Virginia. Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
 
 - **Research & Teaching Interests:** the social-cultural-historical foundations of schooling and education, sociology & anthropology of education
 - **Education:** <br> Ph.D., Education---Social Foundations, University of Virginia, 2025 <br> 
