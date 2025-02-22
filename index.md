@@ -9,11 +9,9 @@ I completed my PhD in the social foundations of education at the University of V
 Previously, I was a high school chemistry teacher in rural Virginia. 
 Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
 
-- **Research & Teaching Interests:** the social-cultural-historical foundations of schooling and education, 
-sociology & anthropology of education
-- **Education:** <br> Ph.D., Education---Social Foundations, University of Virginia, 2025 <br> 
-M.Ed., Educational Psychology---Social Foundations, University of Virginia, 2020 <br>
-B.S., Chemistry (minor in Education), Washington and Lee University, 2015 
+- **Research & Teaching Synopsis:** My work is grounded in the social-cultural-philosophical-and-historical 
+foundations of schooling and education with an emphasis in <i>sociology</i>.
+
 
 ## Current Projects
 
