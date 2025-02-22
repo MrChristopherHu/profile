@@ -10,7 +10,11 @@ Previously, I was a high school chemistry teacher in rural Virginia.
 Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
 
 - **Research & Teaching Synopsis:** My work is grounded in the social-cultural-philosophical-and-historical 
-foundations of schooling and education with an emphasis in <i>sociology</i>.
+foundations of schooling and education with a focus on <i>sociology</i>. At the core of my research is an enduring
+theoretical interest in understanding <i>how</i> and <i>why</i> education and the social structure of <i>race</i> are intricately
+intertwined. In particular, I study Asian immigrant and Asian American communities, their perspectives on education, and
+their racialization within educational contexts. The key theoretical constructs throughout my work include racialization, 
+power, politics, and equity. I engage these questions through ethnographic, qualitative, and discourse analytic methods. 
 
 
 ## Current Projects
