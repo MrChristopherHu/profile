@@ -5,10 +5,10 @@ layout: homepage
 ## About Me
 
 Hi there! I am an ethnographer who studies race, immigration, and education.
-I am an incoming assistant professor of social and cultural studies in education at The University of Alabama starting in Fall 2025. 
+I am an assistant professor of social and cultural studies in education at The University of Alabama. 
 I completed my PhD in the social foundations of education at the University of Virginia.
 Previously, I was a high school chemistry teacher in rural Virginia. 
-Questions? Want to connect? Email me at <b>[ch7dm@virginia.edu](mailto:ch7dm@virginia.edu)</b>!
+Questions? Want to connect? Email me at <b>[chu8@ua.edu](mailto:chu8@ua.edu)</b>!
 
 - **Research & Teaching Synopsis:** My work is grounded in the social-cultural-philosophical-and-historical 
 foundations of schooling and education. At the core of my research is an enduring
