@@ -7,10 +7,11 @@ layout: homepage
 Hi there! I am an ethnographer who studies race, immigration, and education.
 I am an assistant professor of social and cultural studies in education at The University of Alabama. 
 I completed my PhD in the social foundations of education at the University of Virginia.
-Previously, I was a high school chemistry teacher in rural Virginia. 
 Questions? Want to connect? Email me at <b>[chu8@ua.edu](mailto:chu8@ua.edu)</b>!
 
-- **Research & Teaching Synopsis:** My work is grounded in the social-cultural-philosophical-and-historical 
+## Synopsis 
+
+My work is grounded in the social-cultural-philosophical-and-historical 
 foundations of schooling and education. At the core of my research is an enduring
 theoretical interest in understanding <i>how</i> and <i>why</i> education and the social structure of <i>race</i> are intricately
 intertwined. In particular, I study Asian immigrant and Asian American communities, their perspectives on education, and
