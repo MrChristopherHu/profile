@@ -11,12 +11,13 @@ Questions? Want to connect? Email me at <b>[chu8@ua.edu](mailto:chu8@ua.edu)</b>
 
 ## Synopsis 
 
-My work is grounded in the social-cultural-philosophical-and-historical 
+My research and teaching are grounded in the social-cultural-philosophical-and-historical 
 foundations of schooling and education. At the core of my research is an enduring
-theoretical interest in understanding <i>how</i> and <i>why</i> education and the social formation of <i>race</i> are connected.
+interest in understanding how and why education and the social formation of <b>race</b> are connected.
 In particular, I focus on Asian immigrant and Asian American communities, their perspectives on education, and
 their racialization within educational contexts. My work also centers parents, families, and community-based practices. 
-The key theoretical constructs throughout my work include racialization, power, and equity. I engage these questions through ethnographic, qualitative, and discourse analytic methods. 
+Themes throughout my work include <b>racialization, space, power, and equity.</b> 
+I engage these questions through ethnographic, qualitative, and discourse analytic methods. 
 
 ## Current Projects
 

@@ -12,12 +12,6 @@ main:
     pdf: https://journals.sagepub.com/doi/abs/10.3102/0013189X251349155 
     image: ./assets/img/teaser_ER.png
     
-  - title: "Language Ideologies and Access in a Multilingual Tutoring Program"
-    authors: Chris K. Chang-Bacon, <b>Christopher Hu</b>, Isabel Vargas, & Lucy A. Montalvo
-    conference: International Multilingual Research Journal, 2024 
-    pdf: https://www.tandfonline.com/doi/full/10.1080/19313152.2024.2315895
-    image: ./assets/img/teaser_IMRJ.png
-    
   - title: "The Purposes and Pedagogies of Social Foundations in Teacher Education"
     authors: <b>Christopher Hu</b>
     conference: Educational Studies, 2023
