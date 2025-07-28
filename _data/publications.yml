@@ -1,19 +1,7 @@
 main:
 
-  - title: "Asian American Racialization in America's Top-Ranked Public High Schools" 
-    authors: <b>Christopher Hu</b>
-    conference: Race Ethnicity and Education, 2023
-    pdf: https://www.tandfonline.com/doi/abs/10.1080/13613324.2023.2279298
-    image: ./assets/img/teaser_REE.png
-    
   - title: "Poverty and the Brain: The New/Old Language of Cultural Deficit" 
     authors: <b>Christopher Hu</b> and Diane Hoffman
     conference: Educational Researcher, 2025
     pdf: https://journals.sagepub.com/doi/abs/10.3102/0013189X251349155 
     image: ./assets/img/teaser_ER.png
-    
-  - title: "The Purposes and Pedagogies of Social Foundations in Teacher Education"
-    authors: <b>Christopher Hu</b>
-    conference: Educational Studies, 2023
-    pdf: https://www.tandfonline.com/doi/abs/10.1080/00131946.2023.2271587
-    image: ./assets/img/teaser_ES.png
