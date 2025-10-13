@@ -15,8 +15,8 @@ My research and teaching are grounded in the social-cultural-philosophical-and-h
 foundations of schooling and education. At the core of my research is an enduring
 interest in understanding how and why education and the social formation of <b>race</b> are connected.
 In particular, I focus on Asian immigrant and Asian American communities, their perspectives on education, and
-their racialization within educational contexts. My work also centers parents, families, and community-based practices. 
-Themes throughout my work include <b>racialization, space, power, and equity.</b> 
+their racialization within educational contexts. My work also centers youth, parents, families, and community-based practices. 
+Themes throughout my work include racialization, space, power, and equity.
 I engage these questions through ethnographic, qualitative, and discourse analytic methods. 
 
 ## Current Projects
